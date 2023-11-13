@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background: aliceblue;
+}
+
+strong{ 
+color:rgb(141, 41, 234);
+}
+
+.banner{
+    width:100;
+}
